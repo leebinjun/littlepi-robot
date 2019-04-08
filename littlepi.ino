@@ -1,6 +1,10 @@
 #include <Servo.h>
 //#include "act.h"
 
+//TODO:@libing 添加注释
+//TODO:@libing act.h
+//TODO:@libing debug
+
 Servo leftServoLeg;
 Servo leftServoFoot;
 Servo rightServoLeg;
