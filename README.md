@@ -8,6 +8,6 @@
 
 | littlepi |
 |:---------|
-| ![photo01](/etcs/photo01.jpg)     | ![photo02](/etcs/photo02.jpg) |
-
-| ![demo01](/etcs/demo01.gif) |
+| ![photo01](/etcs/photo01.jpg) |
+| ![photo02](/etcs/photo02.jpg) |
+| ![demo01](/etcs/demo01.gif)   |
