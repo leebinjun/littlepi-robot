@@ -6,6 +6,10 @@
 
 特别感谢当时的队友杜总小宇洋神，在806一起成长的日子十分难忘。
 
+## model
+littlePi by Binjun - Thingiverse https://www.thingiverse.com/thing:1811095
+
+## show
 | littlepi |
 |:---------|
 | ![photo01](/etcs/photo01.jpg) |
